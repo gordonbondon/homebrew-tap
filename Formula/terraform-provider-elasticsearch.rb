@@ -20,7 +20,6 @@ class TerraformProviderElasticsearch < Formula
       system "glide", "install"
       system "go", "build", "-o", bin/"terraform-provider-elasticsearch"
       prefix.install_metafiles
-      # bin.install "terraform-provider-elasticsearch"
     end
   end
 
