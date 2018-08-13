@@ -13,4 +13,5 @@ brew install gordonbondon/tap/<formulaname>
 * `tf-install-provider` - small script to easily install terrform providers [[source](https://gist.github.com/drewsonne/693feb5278af158690cf65b1cb7d0e86)]
 * `pyenv-implict` - Allow pyenv to guess the python version from the program name [[source](https://github.com/concordusapps/pyenv-implict)]
 * `farley-aws-missing-tools` - Bunch of aws scripts [[source](https://github.com/AndrewFarley/farley-aws-missing-tools/)]
+* `namerctl` - A utility for controlling namerd [[source](https://github.com/linkerd/namerctl)]
 
