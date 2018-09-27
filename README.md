@@ -4,6 +4,7 @@
 
 ```
 brew install gordonbondon/tap/<formulaname>
+brew cask install gordonbondon/tap/<caskname>
 ```
 
 ## Formulas
@@ -15,3 +16,6 @@ brew install gordonbondon/tap/<formulaname>
 * `farley-aws-missing-tools` - Bunch of aws scripts [[source](https://github.com/AndrewFarley/farley-aws-missing-tools/)]
 * `namerctl` - A utility for controlling namerd [[source](https://github.com/linkerd/namerctl)]
 
+## Casks
+
+* `kubespy` - Spy on your Kubernetes resources [[source](https://github.com/pulumi/kubespy)]
