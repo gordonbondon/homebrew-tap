@@ -1,9 +1,9 @@
 class TerraformProviderElasticsearch < Formula
   desc "Manage ElasticSearch with Terraform"
   homepage "https://github.com/phillbaker/terraform-provider-elasticsearch"
-  url "https://github.com/phillbaker/terraform-provider-elasticsearch/archive/v0.2.2.tar.gz"
-  sha256 "ee6621435a2015f36bc4492b0ec2a7107338f9a6ffc45cb3bfdf8b8d9b7588de"
-  version "0.2.2"
+  url "https://github.com/phillbaker/terraform-provider-elasticsearch/archive/v0.5.0.zip"
+  sha256 "5d3e983663535f52a270ef59a29f9f1f2fda68eb1f13b547e42f5468c5660b12"
+  version "0.5.0"
   head "https://github.com/phillbaker/terraform-provider-elasticsearch.git"
 
   depends_on "gordonbondon/tap/tf-install-provider"
