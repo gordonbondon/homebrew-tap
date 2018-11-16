@@ -15,6 +15,7 @@ brew cask install gordonbondon/tap/<caskname>
 * `pyenv-implict` - Allow pyenv to guess the python version from the program name [[source](https://github.com/concordusapps/pyenv-implict)]
 * `farley-aws-missing-tools` - Bunch of aws scripts [[source](https://github.com/AndrewFarley/farley-aws-missing-tools/)]
 * `namerctl` - A utility for controlling namerd [[source](https://github.com/linkerd/namerctl)]
+* `click` - Command Line Interactive Controller for Kubernetes [[source](https://github.com/databricks/click)]
 
 ## Casks
 
