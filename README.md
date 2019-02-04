@@ -21,3 +21,4 @@ brew cask install gordonbondon/tap/<caskname>
 
 * `kubespy` - Spy on your Kubernetes resources [[source](https://github.com/pulumi/kubespy)]
 * `session-manager-plugin` - session manager plugin for aws cli [[source](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)]
+* `scenery` - A Terraform plan output prettifier [[source](https://github.com/dmlittle/scenery)]
