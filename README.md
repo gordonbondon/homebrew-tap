@@ -17,8 +17,11 @@ brew cask install gordonbondon/tap/<caskname>
 * `namerctl` - A utility for controlling namerd [[source](https://github.com/linkerd/namerctl)]
 * `click` - Command Line Interactive Controller for Kubernetes [[source](https://github.com/databricks/click)]
 
+
 ## Casks
 
 * `kubespy` - Spy on your Kubernetes resources [[source](https://github.com/pulumi/kubespy)]
 * `session-manager-plugin` - session manager plugin for aws cli [[source](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)]
 * `scenery` - A Terraform plan output prettifier [[source](https://github.com/dmlittle/scenery)]
+* `helmsman` - A Terraform plan output prettifier [[source](https://github.com/dmlittle/scenery)]
+* `terraform-provider-ansible` - "Logical" provider for integrating with an Ansible Dynamic Inventory script. [[source](https://github.com/nbering/terraform-provider-ansible)]
