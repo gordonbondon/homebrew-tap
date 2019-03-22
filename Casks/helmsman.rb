@@ -1,6 +1,6 @@
 cask 'helmsman' do
-  version '1.8.0'
-  sha256 '90fcba81720dca6653994a614d1bd04c994320e5012b10f74bad9c83b684c3c3'
+  version '1.8.1'
+  sha256 'fd2d2c750960ba331ee99f590db2f65f8a075872754480a1768c95587f8cbee4'
 
   url "https://github.com/Praqma/helmsman/releases/download/v#{version}/Helmsman_#{version}_darwin_amd64.tar.gz"
   name 'helmsman'
