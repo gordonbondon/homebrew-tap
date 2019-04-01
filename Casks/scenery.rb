@@ -1,6 +1,6 @@
 cask 'scenery' do
-  version '0.1.1'
-  sha256 '1d01844bbfdc6f74e33a211c07478de98803ad8a0f74c92ebb73f389ad25bb00'
+  version '0.1.4'
+  sha256 '32ffc8aa537c23fa6378e32ff8d61ddf9e18f806521e4609df2835378482d343'
 
   url "https://github.com/dmlittle/scenery/releases/download/v#{version}/scenery-v#{version}-darwin-amd64"
   name 'scenery'
