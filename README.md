@@ -25,3 +25,6 @@ brew cask install gordonbondon/tap/<caskname>
 * `scenery` - A Terraform plan output prettifier [[source](https://github.com/dmlittle/scenery)]
 * `helmsman` - A Terraform plan output prettifier [[source](https://github.com/dmlittle/scenery)]
 * `terraform-provider-ansible` - "Logical" provider for integrating with an Ansible Dynamic Inventory script. [[source](https://github.com/nbering/terraform-provider-ansible)]
+* `terraform-provider-slack` - [[source](https://github.com/janitors/terraform-provider-slack)]
+* `terraform-provider-sentry` - [[source](https://github.com/jianyuan/terraform-provider-sentry)]
+* `terraform-provider-mongodbatlas` - [[source](https://github.com/akshaykarle/terraform-provider-mongodbatlas)]
