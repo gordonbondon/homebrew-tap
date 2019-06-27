@@ -6,7 +6,7 @@ cask 'terraform-provider-ansible' do
   name 'terraform-provider-ansible'
   homepage 'https://github.com/nbering/terraform-provider-ansible'
 
-  depends_on formula: 'drewsonne/tap/tf-install-provider'
+  depends_on formula: 'gordonbondon/tap/tf-install-provider'
 
   caveats <<~EOS
     After installing, you will need to copy the provider to a place terraform can find it by running:
