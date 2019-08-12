@@ -1,6 +1,6 @@
 cask 'terraform-provider-ansible' do
-  version '0.0.4'
-  sha256 '323319c7f7093a10b089cd94496b96a98b1b240f01f5e3555af095164bae087a'
+  version '1.0.3'
+  sha256 'a31852e97fa908eb1521d9c64c9929c32156bf0917fd421863b62da3d7814a4f'
 
   url "https://github.com/nbering/terraform-provider-ansible/releases/download/v#{version}/terraform-provider-ansible-darwin_amd64.zip"
   name 'terraform-provider-ansible'
