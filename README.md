@@ -4,7 +4,7 @@
 
 ```
 brew install gordonbondon/tap/<formulaname>
-brew cask install gordonbondon/tap/<caskname>
+brew install --cask gordonbondon/tap/<caskname>
 ```
 
 ## Formulas
